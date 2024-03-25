@@ -46,6 +46,6 @@ Data: [Dataset Water Splitting](https://cmr.fysik.dtu.dk/cubic_perovskites/cubic
 
 XiYuan Project in Fudan University.
 
-Advisor: Prof. Yiqiang Zhan, Prof. Zia Cai
+Advisor: Prof. Yiqiang Zhan, Prof. Xia Cai
 
 Student: Zhijian Zhou, Yang Shen
