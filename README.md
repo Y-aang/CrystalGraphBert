@@ -36,6 +36,8 @@ The original testing data of Water Splitting for CGCNN can't be found because of
 
 ## Reference
 
+This project builds upon the work presented in the following paper:
+
 Paper: Zhang J, Zhang H, Xia C, et al. Graph-bert: Only attention is needed for learning graph representations[J]. arXiv preprint arXiv:2001.05140, 2020.
 
 Code: https://github.com/jwzhanggy/Graph-Bert
