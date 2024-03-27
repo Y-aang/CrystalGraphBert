@@ -25,7 +25,7 @@ Remember to modify your path of data, which in noticed by TODO in `train.ipynb`.
 
 ## Result
 
-| Model \ Dataset  | Water Splitting |
+| Model \ Dataset  | Water Splitting (eV) |
 | ---------------- | --------------- |
 | CGCNN            | 1.623           |
 | CrystalGraphBert | 3.80            |
